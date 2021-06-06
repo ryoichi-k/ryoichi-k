@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- GitHub Readme Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github Profile Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryoichi-k)](https://github.com/ryoichi-k/github-profile-trophy)
 
