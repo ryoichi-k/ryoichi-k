@@ -2,6 +2,14 @@
 東京でWebエンジニアをしています！27歳です。
 2022/8/8現在転職活動中です！
 
+📩以下のような人材を求めている企業さんはぜひご連絡ください！
+✔未経験ではなく、オブジェクト指向のプログラミングを現場で学んできた人材をお求めの企業様。
+✔Python3、Vue.js、Typescript、Laravel9の開発経験がある人材をお求めの企業様。
+✔受け身の姿勢ではなく、自身で課題解決のために主体的にアウトプットし、成長していく人材をお求めの企業様。
+✔オープンでフラットなカルチャーにフィットする人材をお求めの企業様。
+
+エンジニア経歴
+
 
 <!--
 **ryoichi-k/ryoichi-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
