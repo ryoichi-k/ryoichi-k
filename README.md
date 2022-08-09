@@ -18,7 +18,11 @@ Webエンジニア2年目の27歳です。東京で毎日楽しくプログラ�
 
 ✔オープンでフラットなカルチャーにフィットする人材をお求めの企業様。
 
-※Wantedlyにも登録しております。https://www.wantedly.com/id/osamu_ka_e 経験しているスキルセットは下部をご覧ください！
+※Wantedlyにも登録しております。https://www.wantedly.com/id/osamu_ka_e
+
+経験しているスキルセットは下部をご覧ください！
+
+スキルセット：https://www.resume.id/ryo_k
 
 
 ## 😄エンジニア経歴
