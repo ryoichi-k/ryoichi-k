@@ -33,6 +33,8 @@ Webエンジニア2年目の27歳です。東京で毎日楽しくプログラ�
 
 輸入雑貨ECサイト（新規開発）、買取サイトの開発・改修、ナイトレジャー専門検索サイトの改修など
 
+詳細な経歴はWantedlyをご覧ください。Wantedly URL:https://www.wantedly.com/id/osamu_ka_e
+
 
 
 
