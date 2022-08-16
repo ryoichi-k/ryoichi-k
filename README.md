@@ -19,6 +19,13 @@ Webエンジニア2年目の27歳です。東京で毎日楽しくプログラ�
 
 ・その他:AWS、Docker、Apache、Github、Redmine、Slack、Backlogなど
 
+### 興味のある技術
+・Ruby on Rails
+・Go
+・Node.js
+・React
+・クリーンアーキテクチャ
+
 ## 🌱2022/8/15 現在転職活動中です！
 
 📩以下のような人材を求めている企業さんはぜひご連絡ください！
