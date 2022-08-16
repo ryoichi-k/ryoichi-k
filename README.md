@@ -6,6 +6,17 @@ Webエンジニア2年目の27歳です。東京で毎日楽しくプログラ�
 
 - この先やってみたいこと：技術同人誌を製作したい。将来の技術書出版のためにテックブログを開設し、ライティングスキルを磨きたい。
 
+
+保有するスキルセット
+
+・開発言語:PHP、Python、JavaScript、TypeScriptなど
+
+・フレームワーク:Vue.js、Laravel、FuelPHP、CodeIgniter
+
+・データベース:MySQL
+
+・その他:AWS、Docker、Apache、Github、Redmine、Slack、Backlogなど
+
 ## 🌱2022/8/15 現在転職活動中です！
 
 📩以下のような人材を求めている企業さんはぜひご連絡ください！
