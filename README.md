@@ -86,6 +86,14 @@
 
 ● Node.js、Express、React、MongoDB
 
+自己学習の言語と期間
+
+| 言語 | 自己学習期間 | レベル |
+|:------|:------:|:------:|
+| Node.js | ３ヶ月以上 | REST APIを自作できる、Expressについて基礎を理解している、mongooseを使用できる、postmanでのAPIのテストができる |
+| React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、react-router-domを使用できる |
+| Mongodb | ３ヶ月以上 | mongodb atlasを使用できる |
+
 
 
 ## 🌱2022/8/18 現在転職活動中です！
