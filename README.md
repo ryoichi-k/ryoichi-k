@@ -94,7 +94,7 @@
 |:------|:------:|:------:|
 | Node.js | ３ヶ月以上 | REST APIを自作できる、Expressについて基礎を理解している、mongooseを使用できる、postmanでのAPIのテストができる |
 | React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、react-router-domを使用できる |
-| Mongodb | ３ヶ月以上 | mongodb atlasを使用できる |
+| Mongodb | ３ヶ月以上 | mongodb atlasを使用できる。簡単なスキーマ作成ができる |
 | flask | ３ヶ月以上 |  基本的なrest apiの自作ができる、vue.jsと繋げてアプリ作成、Jinjaが使える |
 | Ruby on Rails | 1年以上 |  基本的なrest apiの自作ができる。エンジニア職に就く前に独学（スクールには通っていません。） |
 | AWS資格試験 | ３ヶ月以上 |  ソリューションアーキテクトアソシエイト試験勉強　９月に受験予定 |
