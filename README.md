@@ -50,7 +50,7 @@ Webエンジニア2年目の27歳です。東京で毎日楽しくプログラ�
 
 ## 😄エンジニア経歴
 
-現在 ログ監視、分析WEbアプリの開発に従事（フルリモート）
+現在： ログ監視、分析WEbアプリの開発に従事（フルリモート）
 
 過去に経験したプロジェクト(2021/5/1~)
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡GitHub活動
-- 新しい技術はガンガン触っています！技術書を見るのが好きでいつも大型の本屋に通っています。
+- 新しい技術はガンガン触っています！技術書を見るのが好きでいつも大型の本屋に通っています。（新宿の紀伊國屋がお気に入り）
 <!-- GitHub Readme Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryoichi-k)](https://github.com/ryoichi-k/github-readme-stats)
 <!-- Github Profile Trophy -->
