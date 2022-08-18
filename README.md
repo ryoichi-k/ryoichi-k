@@ -32,10 +32,6 @@
 
 
 
-
-
-
-
 ## :earth_asia:保有するスキルセット
 
 ● 開発言語:PHP、Python3、JavaScript、TypeScriptなど
@@ -49,6 +45,7 @@
 ● 経験フェーズ
 
 　　○ 基本設計～テスト
+  
 
 ### :computer:興味のある技術
 ・Ruby on Rails
@@ -56,6 +53,14 @@
 ・Node.js
 ・React
 ・クリーンアーキテクチャ
+
+### 自己学習内容
+
+● 大学院科目履修生として情報アーキテクチャ学を聴講
+
+● Node.js、Express、React、MongoDB
+
+
 
 ## 🌱2022/8/18 現在転職活動中です！
 
