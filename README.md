@@ -93,15 +93,15 @@
 | 言語 | 自己学習期間 | レベル |
 |:------|:------:|:------:|
 | Node.js | ３ヶ月以上 | REST APIを自作できる、Expressについて基礎を理解している、mongooseを使用できる、postmanでのAPIのテストができる |
-| React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、useStateについて理解している、react-router-domを使用できる。material-uiを使える。 |
+| React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、useStateについて理解している、react-router-domを使用できる。material-uiを使える。（他のリポジトリにアウトプットしています。） |
 | Mongodb | ３ヶ月以上 | mongodb atlasを使用できる。簡単なスキーマ作成ができる。Nosqlも面白い。 |
 | flask | ３ヶ月以上 |  基本的なrest apiの自作ができる、vue.jsと繋げてアプリ作成、Jinjaが使える |
 | Ruby on Rails | 1年以上 |  基本的なrest apiの自作ができる。Railsチュートリアルを完走できる。エンジニア職に就く前に独学（スクールには通っていません。） |
 | PostgreSQL | 1年以上 |  Railsチュートリアル時に同時に学習。MySQLの方が肌に合うって思う。 |
 | AWS資格試験 | ３ヶ月以上 |  ソリューションアーキテクトアソシエイト試験勉強　９月に受験予定 |
-| lambda | 1ヶ月以上 | pythonで簡単な関数を作って、cloudwatchで監視。API Gatewayを通してみた。 |
-| LINE Messaging API | 1ヶ月以上 | 興味本位で触ってみた程度 |
-| wireshark | 3ヶ月以上 | 大学院の講義がきっかけで学習。パケットの流れが少しわかる程度 |
+| lambda | 1ヶ月以上 | pythonで簡単な関数を作ってcloudwatchで監視。API Gatewayも通してみた。「DynamoDB、RDSと繋げば、これだけでバックエンドになるやん！」とテンションが上がる。考えた人は天才。 |
+| LINE Messaging API | 1ヶ月以上 | 興味本位で触ってみた程度。無料プランでは月に1000件しかメッセージ送れないのは辛いと考えていたが、別にそうでもなかった。 |
+| wireshark | 3ヶ月以上 | 大学院の講義がきっかけで学習。パケットの流れが少しわかる程度。不正なパケットを見抜く講義が面白かった。 |
 | Go | 1ヶ月以上 | 『詳解Go言語Webアプリケーション開発』　著者：清水陽一郎　を読んで学習。この言語に可能性を感じている自分がいる。 |
 | CakePHP | 3ヶ月以上 | 随分前だが、掲示板アプリを自作した。Laravelの案件に参画できてからは触らなくなった。公式サイトのデザインが好き。 |
 
