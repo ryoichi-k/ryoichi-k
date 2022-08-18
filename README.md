@@ -65,6 +65,8 @@
 | Codeigniter | 4ヶ月 | 調べながら構築可能 |
 | FuelPHP | 2ヶ月 | 調べながら構築可能 |
 | Alpine.js | 2ヶ月 | 調べながら構築可能 |
+| sass | 2ヶ月 | 調べながら構築可能 |
+| TailwindCSS | 2ヶ月 | 調べながら構築可能、Laravelの案件で経験 |
 | MySQL | 2年 | 指示通り作業が可能。結合、サブクエリの経験あり（前職ではDWHで使用経験あり） |
 | Git | １年以上 | 基本的な機能は理解できている。merge、push、pull、stash、cherry pickなどを使用 |
 | Docker | 5ヶ月 | 基本的な機能は理解できている。Dockerfile記述の経験は無し |
