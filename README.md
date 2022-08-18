@@ -11,7 +11,7 @@ Webエンジニア2年目の27歳です。東京で毎日楽しくプログラ�
 
 ### :earth_asia:保有するスキルセット
 
-・開発言語:PHP、Python、JavaScript、TypeScriptなど
+・開発言語:PHP、Python3、JavaScript、TypeScriptなど
 
 ・フレームワーク:Vue.js、Laravel、FuelPHP、CodeIgniter
 
