@@ -59,7 +59,7 @@
 | PHP | 1年以上 | 指示通り作業が可能 |
 | Python3 | 半年以上 | 指示通り作業が可能、Pandas使用経験あり |
 | Javascript | 1年以上 | 調べながら構築可能 |
-| Laravel | 半年 | 調べながら構築可能 |
+| Laravel | 半年 | 調べながら構築可能、Laravel9の経験あり |
 | Vue.js | 2ヶ月 | 調べながら構築可能、ElementPlusの経験あり |
 | Typescript | 2ヶ月 | 調べながら構築可能 |
 | Codeigniter | 4ヶ月 | 調べながら構築可能 |
@@ -96,6 +96,7 @@
 | React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、react-router-domを使用できる |
 | Mongodb | ３ヶ月以上 | mongodb atlasを使用できる |
 | flask | ３ヶ月以上 |  基本的なrest apiの自作ができる、vue.jsと繋げてアプリ作成、Jinjaが使える |
+| Ruby on Rails | 1年以上 |  基本的なrest apiの自作ができる。エンジニア職に就く前に独学（スクールには通っていません。） |
 | AWS資格試験 | ３ヶ月以上 |  ソリューションアーキテクトアソシエイト試験勉強　９月に受験予定 |
 
 
