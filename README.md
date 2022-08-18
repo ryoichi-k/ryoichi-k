@@ -57,6 +57,8 @@
 
 ### 🔭自己学習内容
 
+● エンジニアイベントに参加：connpass URL　→　https://connpass.com/user/ryoichi-k/
+
 ● 大学院科目履修生として情報アーキテクチャ学を聴講
 
 ● Node.js、Express、React、MongoDB
