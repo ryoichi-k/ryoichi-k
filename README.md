@@ -147,7 +147,6 @@ Here are some ideas to get you started:
 
 ## ⚡GitHub活動
 - 新しい技術はガンガン触っています！技術書を見るのが好きでいつも大型の本屋に通っています。（新宿の紀伊國屋がお気に入り）
-- 
 <!-- GitHub Readme Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryoichi-k)](https://github.com/ryoichi-k/github-readme-stats)
 <!-- Github Profile Trophy -->
