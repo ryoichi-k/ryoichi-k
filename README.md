@@ -119,9 +119,9 @@
 
 ✔アウトプットを推奨するカルチャーにフィットする人材をお求めの企業様。
 
-※Wantedlyにも登録しております。https://www.wantedly.com/id/osamu_ka_e
+※Wantedlyにも詳しい職歴を登録しております。ぜひご覧ください。　⇨ https://www.wantedly.com/id/osamu_ka_e
 
-※経験しているスキルセットはこちらをご覧ください！：https://www.resume.id/ryo_k
+※経験しているスキルセットはこちらをご覧ください！　⇨：https://www.resume.id/ryo_k
 
 
 
