@@ -91,8 +91,8 @@
 | 言語 | 期間 | レベル |
 |:------|:------:|:------:|
 | Node.js | ６ヶ月以上 | REST APIを自作できる、Expressについて基礎を理解している、mongooseを使用できる、postmanでのAPIのテストができる |
-| React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、useStateについて理解している、react-router-domを使用できる。material-uiを使える。（他のリポジトリにアウトプットしています。） |
-| Mongodb | ３ヶ月以上 | mongodb atlasを使用できる。簡単なスキーマ作成ができる。Nosqlも面白い。 |
+| React.js | ３ヶ月以上 | コンポーネント自作、SPAでの構築、Axiosでnode.jsのAPIを叩ける、Reducerの作成ができる、Hookについて理解している、useStateについて理解している、react-router-domを使用できる。material-uiでダイアログ、アイコン、スナックバーを使える。（他のリポジトリにアウトプットしています。） |
+| Mongodb | ３ヶ月以上 | mongodb atlasを使用できる。簡単なスキーマ作成ができる。 |
 | flask | ３ヶ月以上 |  基本的なrest apiの自作ができる、vue.jsと繋げてアプリ作成、Jinjaが使える。軽量フレームワークにハマるきっかけ。 |
 | Ruby on Rails | 1年以上 |  基本的なrest apiの自作ができる。Railsチュートリアルを完走できる。エンジニア職に就く前に独学（自走力を証明するため、スクールには通っていませんでした。） |
 | PostgreSQL | 1年以上 |  Railsチュートリアル時に同時に学習。MySQLの方が肌に合うって思う。 |
@@ -115,6 +115,8 @@
 ✔受け身の姿勢ではなく、自身で課題解決のために主体的にアウトプットし、成長していく人材をお求めの企業様。
 
 ✔オープンでフラットなカルチャーにフィットする人材をお求めの企業様。
+
+✔アウトプットを推奨するカルチャーにフィットする人材をお求めの企業様。
 
 ※Wantedlyにも登録しております。https://www.wantedly.com/id/osamu_ka_e
 
