@@ -69,7 +69,7 @@
 | Codeigniter | 4ヶ月 | 調べながら構築可能 |
 | FuelPHP | 2ヶ月 | 調べながら構築可能 |
 | Alpine.js | 2ヶ月 | 調べながら構築可能。Laravel9のアプリの管理サイドのアプリ開発で使用経験あり。 |
-| sass | 2ヶ月 | 調べながら構築可能 |
+| sass | 4ヶ月 | 調べながら構築可能 |
 | TailwindCSS | 2ヶ月 | 調べながら構築可能、Laravelの案件で経験 |
 | MySQL | 2年 | 指示通り作業が可能。結合、サブクエリの経験あり（前職ではDWHで使用経験あり） |
 | Git | １年以上 | A successful Git branching modelに沿った開発業務を経験。merge、push、pull、stash、cherry pickなどを使用。プルリクベースでの開発経験あり。BacklogでのGitの経験あり。 |
