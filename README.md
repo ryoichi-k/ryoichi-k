@@ -111,11 +111,11 @@
 
 
 
-## 🌱2022/10/1 現在転職活動中です！
+## 🌱2022/10/2 現在転職活動中です！
 
 📩以下のような人材を求めている企業さんはぜひご連絡ください！
 
-✔Python3、Vue.js、Typescript、Laravel9、LinuxでのWebアプリ開発経験がある人材をお求めの企業様。
+✔Python3、Vue3、Typescript、Laravel9、LinuxでのWebアプリ開発経験がある人材をお求めの企業様。
 
 ✔受け身の姿勢ではなく、自身で課題解決のために主体的にアウトプットし、成長していく人材をお求めの企業様。
 
@@ -148,7 +148,8 @@ Here are some ideas to get you started:
 
 ## ⚡GitHub活動
 
-・新しい技術はガンガン触っています！技術書を読むのが好きでいつも大型の本屋に通っています。（新宿の紀伊國屋がお気に入り）
+・新しい技術はガンガン触っています！技術書を読むのが好きでいつも大型の本屋に通っています。（新宿の紀伊國屋と池袋のジュンク堂書店がお気に入り）
+・Udemy、Schooなどの動画教材を用いてのキャッチアップも積極的に行っております。
 <!-- GitHub Readme Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryoichi-k)](https://github.com/ryoichi-k/github-readme-stats)
 <!-- Github Profile Trophy -->
