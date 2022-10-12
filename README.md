@@ -150,6 +150,7 @@ Here are some ideas to get you started:
 
 ・新しい技術はガンガン触っています！技術書を読むのが好きでいつも大型の本屋に通っています。（新宿の紀伊國屋と池袋のジュンク堂書店がお気に入り）
 ・Udemy、Schooなどの動画教材を用いてのキャッチアップも積極的に行っております。
+
 <!-- GitHub Readme Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryoichi-k)](https://github.com/ryoichi-k/github-readme-stats)
 <!-- Github Profile Trophy -->
