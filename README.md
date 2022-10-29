@@ -115,7 +115,7 @@
 
 📩以下のような人材を求めている企業さんはぜひご連絡ください！
 
-✔Python3、Vue3、Typescript、Laravel9、Linux(CentOSの経験あり)でのWebアプリ開発経験がある人材をお求めの企業様。
+✔Python3、Vue3、Typescript、Laravel9、Linux(CentOS)でのWebアプリ開発経験がある人材をお求めの企業様。
 
 ✔受け身の姿勢ではなく、自身で課題解決のために主体的にアウトプットし、成長していく人材をお求めの企業様。
 
