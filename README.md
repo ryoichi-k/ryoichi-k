@@ -33,7 +33,7 @@
 
 ※出社、リモート併用、フルリモートすべてにおいて業務での経験あり。
 
-※詳細な経歴はWantedlyをご覧ください。Wantedly URL:https://www.wantedly.com/id/osamu_ka_e
+※詳細な経歴はWantedlyをご覧ください。Wantedly URL :https://www.wantedly.com/id/osamu_ka_e
 
 
 
