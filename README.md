@@ -1,5 +1,5 @@
 # プロフィールをご覧いただき、ありがとうございます👋
-### 👯Webエンジニア3年目の28歳です。東京で毎日楽しくプログラミングをしております！
+### 👯Webエンジニア3年目の28歳です。東京の事業会社で毎日楽しくプログラミングをしております！
 ### 「夢はテックリードになって技術書を出版し、理工学書でベストセラーをとることです！」
 
 ● ポートフォリオ（フロント側）　https://github.com/ryoichi-k/ex_sns_front
@@ -24,7 +24,7 @@
 
 ● 現職ではGoでクリーンアーキテクチャに基づいた設計を行い、フロントエンドとバックエンドの両方を担ってきました。
 
-● 得意なエンジニアリングスキルはGo_langとPHPとJavascriptです。
+● 得意なエンジニアリングスキルはGo_langとPHPです。
 ソフトスキルは建設的な対話とチャットでの質問力の高さに強みがあります！人前で話すのも大得意です！
 
 ※出社、リモート併用、フルリモートすべてにおいて業務での経験あり。
@@ -38,7 +38,7 @@
 
 ● フレームワーク:Vue.js、Laravel、FuelPHP
 
-● データベース:MySQL
+● データベース:MySQL、DynamoDB
 
 ● その他:AWS、Docker、Apache、Github、Slack、Backlogなど
 
@@ -51,20 +51,17 @@
   
 | 言語環境 | 期間 | レベル |
 |:------|:------:|:------:|
-| PHP | 2年以上 | PHP7、8での開発経験あり。要件定義、基本設計経験あり。指示通り作業が可能 |
+| PHP | 3年以上 | PHP7、8での開発経験あり。要件定義、基本設計経験あり。指示通り作業が可能 |
 | Go | 半年 | クリーンアーキテクチャに則っての設計、バッチ開発 |
 | Python3 | 半年以上 | 基本設計経験あり。指示通り作業が可能。Pandas使用経験あり |
-| Javascript | 2年以上 | 基本設計経験あり。調べながら構築可能。ES2015で書いた経験あり。 アロー関数、async、await使えます。|
-| Laravel | 1年以上 | 基本設計経験あり。調べながら構築可能、Laravel9の経験あり。migrationファイル、seeder、trait作成経験あり。 |
-| Vue.js | 1年以上 | 基本設計経験あり。調べながら構築可能、ElementPlusの経験あり。propsでコンポーネントに値を渡す機能の使用経験あり。 |
-| Typescript | 2ヶ月 | 調べながら構築可能 |
-| Alpine.js | 2ヶ月 | 調べながら構築可能。Laravel9のアプリの管理サイドのアプリ開発で使用経験あり。 |
-| sass | 4ヶ月 | 調べながら構築可能 |
+| Javascript | 3年以上 | 基本設計経験あり。調べながら構築可能。ES2015で書いた経験あり。 アロー関数、async、await使えます。|
+| Laravel | 3年以上 | 基本設計経験あり。調べながら構築可能、Laravel6,9の経験あり。migrationファイル、seeder、trait作成経験あり。PHPUnitでのテスト経験あり |
+| Vue.js | 2年以上 | 基本設計経験あり。調べながら構築可能、VueX,Vue Router,ElementPlusの経験あり |
 | TailwindCSS | 2ヶ月 | 調べながら構築可能、Laravelの案件で経験 |
-| MySQL | 2年以上 | 指示通り作業が可能。結合、サブクエリの経験あり（前職ではDWHで使用経験あり） |
-| Git | 2年以上 | A successful Git branching modelに沿った開発業務を経験。merge、push、pull、stash、cherry pickなどを使用。プルリクベースでの開発経験あり。BacklogでのGitの経験あり。 |
-| Docker | 1年以上 | 基本的な機能とコマンドは理解できている。Dockerfile記述の経験は無し。 |
-| AWS | 1年以上 | codeシリーズとS3の使用経験あり |
+| MySQL | 3年以上 | 指示通り作業が可能。結合、サブクエリの経験あり |
+| Git | 3年以上 | A successful Git branching modelに沿った開発業務を経験。merge、push、pull、stash、cherry pickなどを使用。プルリクベースでの開発経験あり。BacklogでのGitの経験あり。 |
+| Docker | 3年以上 | 基本的な機能とコマンドは理解できている。Dockerfile記述の経験は無し。 |
+| AWS | 2年以上 | DynamoDB,codeシリーズ,S3,CloudFormation,CloudWatch |
   
 
 ### :computer:興味のある技術
