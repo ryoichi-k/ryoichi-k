@@ -52,16 +52,16 @@
 | 言語環境 | 期間 | レベル |
 |:------|:------:|:------:|
 | PHP | 3年以上 | PHP7、8での開発経験あり。要件定義、基本設計経験あり。指示通り作業が可能 |
-| Go | 半年 | クリーンアーキテクチャに則っての設計、バッチ開発 |
+| Go | 1年以上 | クリーンアーキテクチャに則っての設計、バッチ開発 |
 | Python3 | 半年以上 | 基本設計経験あり。指示通り作業が可能。Pandas使用経験あり |
-| Javascript | 3年以上 | 基本設計経験あり。調べながら構築可能。ES2015で書いた経験あり。 アロー関数、async、await使えます。|
+| Javascript | 4年以上 | 基本設計経験あり。調べながら構築可能。ES2015で書いた経験あり。 アロー関数、async、await使えます。|
 | Laravel | 3年以上 | 基本設計経験あり。調べながら構築可能、Laravel6,9の経験あり。migrationファイル、seeder、trait作成経験あり。PHPUnitでのテスト経験あり |
 | Vue.js | 2年以上 | 基本設計経験あり。調べながら構築可能、VueX,Vue Router,ElementPlusの経験あり |
 | TailwindCSS | 2ヶ月 | 調べながら構築可能、Laravelの案件で経験 |
-| MySQL | 3年以上 | 指示通り作業が可能。結合、サブクエリの経験あり |
-| Git | 3年以上 | A successful Git branching modelに沿った開発業務を経験。merge、push、pull、stash、cherry pickなどを使用。プルリクベースでの開発経験あり。BacklogでのGitの経験あり。 |
-| Docker | 3年以上 | 基本的な機能とコマンドは理解できている。Dockerfile記述の経験は無し。 |
-| AWS | 2年以上 | DynamoDB,codeシリーズ,S3,CloudFormation,CloudWatch |
+| MySQL | 4年以上 | 指示通り作業が可能。結合、サブクエリの経験あり |
+| Git | 4年以上 | A successful Git branching modelに沿った開発業務を経験。merge、push、pull、stash、cherry pickなどを使用。プルリクベースでの開発経験あり。BacklogでのGitの経験あり。 |
+| Docker | 4年以上 | 基本的な機能とコマンドは理解できている。Dockerfile記述の経験は無し。 |
+| AWS | 3年以上 | DynamoDB,codeシリーズ,S3,CloudFormation,CloudWatch |
   
 
 ### :computer:興味のある技術
